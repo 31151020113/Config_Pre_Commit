@@ -26,7 +26,6 @@ function App() {
           a
         </button>
         <p>test</p>
-        <div onScroll={fetchData}>test</div>
       </header>
     </div>
   );
